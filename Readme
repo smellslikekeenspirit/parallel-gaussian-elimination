@@ -1,0 +1,5 @@
+Library requirements: numpy, multiprocessing, time
+
+To execute, run python gaussian_elimination_par.py from terminal. Once done:
+Enter a dimension for the matrix and vector (n). This will produce the matrix
+and vector according to the given size.
